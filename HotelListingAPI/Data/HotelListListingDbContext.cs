@@ -36,7 +36,7 @@ namespace HotelListingAPI.Data
                    Id = 1,
                    Name = "El Gran Hotel",
                    Address ="Santo Domingo",
-                   ContryId=1,
+                   CountryId=1,
                    Rating=4.3
                },
                new Hotel
@@ -44,7 +44,7 @@ namespace HotelListingAPI.Data
                    Id = 2,
                    Name = "El Jamaiquino",
                    Address = "Negril",
-                   ContryId = 2,
+                   CountryId = 2,
                    Rating = 4.2
                }
            );
